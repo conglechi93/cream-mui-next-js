@@ -1,0 +1,35 @@
+[NX Daemon Server] - 2024-01-10T09:53:36.283Z - Started listening on: \\.\pipe\nx\C:\Users\conglc\AppData\Local\Temp\ad12bbdba81f99421573\d.sock
+[NX Daemon Server] - 2024-01-10T09:53:36.288Z - [WATCHER]: Subscribed to changes within: D:\Newfolder\crema-mui-nextjs-ts (native)
+[NX Daemon Server] - 2024-01-10T09:53:36.298Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:36.303Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T09:53:36.303Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:36.305Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-10T09:53:37.741Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-10T09:53:37.742Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-10T09:53:37.742Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-10T09:53:38.289Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-10T09:53:38.292Z - Time taken for 'total for creating and serializing project graph' 1983.9991999864578ms
+[NX Daemon Server] - 2024-01-10T09:53:38.292Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-10T09:53:38.292Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1984. Response time: 3.
+[NX Daemon Server] - 2024-01-10T09:53:38.313Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T09:53:42.205Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:42.205Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T09:53:42.206Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:42.208Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-10T09:53:42.208Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-10T09:53:42.210Z - Time taken for 'total for creating and serializing project graph' 0.13220000267028809ms
+[NX Daemon Server] - 2024-01-10T09:53:42.211Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-10T09:53:42.211Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-01-10T09:53:42.236Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T09:53:45.203Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:45.203Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T09:53:45.204Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-10T09:53:45.207Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-10T09:53:45.207Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-10T09:53:45.209Z - Time taken for 'total for creating and serializing project graph' 0.125900000333786ms
+[NX Daemon Server] - 2024-01-10T09:53:45.209Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-10T09:53:45.209Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-10T09:53:45.230Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-10T12:53:46.187Z - [WATCHER]: Stopping the watcher for D:\Newfolder\crema-mui-nextjs-ts (sources)
+[NX Daemon Server] - 2024-01-10T12:53:46.188Z - [WATCHER]: Stopping the watcher for D:\Newfolder\crema-mui-nextjs-ts (outputs)
+[NX Daemon Server] - 2024-01-10T12:53:46.188Z - Server stopped because: "10800000ms of inactivity"
